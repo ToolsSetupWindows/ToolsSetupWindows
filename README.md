@@ -1,4 +1,4 @@
-# 🖥️ Ứng Dụng Windows Hỗ Trợ (Python)
+# 🖥️ Ứng Dụng Tools Setup Windows (Python)
 
 Ứng dụng này được phát triển bằng **Python** và biên dịch sang file thực thi (`.exe`) để bạn có thể sử dụng trực tiếp trên Windows mà **không cần cài đặt Python**.
 
