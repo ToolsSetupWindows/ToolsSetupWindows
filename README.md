@@ -2,6 +2,8 @@
 
 Ứng dụng này được phát triển bằng **Python** và biên dịch sang file thực thi (`.exe`) để bạn có thể sử dụng trực tiếp trên Windows mà **không cần cài đặt Python**.
 
+![Giao diện chính](../../releases/download/releases/info.png)
+
 ---
 
 ## 📥 Tải về
