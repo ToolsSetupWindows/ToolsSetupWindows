@@ -53,7 +53,7 @@ Bạn hoàn toàn có thể kiểm tra file `.exe` bằng [VirusTotal](https://w
 
 ## 📩 Liên hệ & góp ý
 
-Nếu bạn gặp sự cố hoặc có góp ý, vui lòng mở [Issues](../../issues) trên GitHub hoặc liên hệ qua email: **support@example.com**
+Nếu bạn gặp sự cố hoặc có góp ý, vui lòng mở [Issues](../../issues) trên GitHub hoặc liên hệ qua email: **ToolsSetupWindows@gmail.com**
 
 ---
 
