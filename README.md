@@ -2,7 +2,7 @@
 
 Ứng dụng này được phát triển bằng **AutoIT** và biên dịch sang file thực thi (`.exe`) để bạn có thể sử dụng trực tiếp trên Windows mà **không cần cài đặt AutoIT**.
 
-<p align="center">![Giao diện chính](../../releases/download/StoreLTSC/info.png)</p>
+![Giao diện chính]<p align="center">(../../releases/download/StoreLTSC/info.png)</p>
 
 ---
 
