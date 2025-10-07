@@ -1,6 +1,6 @@
-# 🖥️ Ứng Dụng Tools Setup Windows (Python)
+# 🖥️ Ứng Dụng Tools Setup Windows (AutoIT)
 
-Ứng dụng này được phát triển bằng **Python** và biên dịch sang file thực thi (`.exe`) để bạn có thể sử dụng trực tiếp trên Windows mà **không cần cài đặt Python**.
+Ứng dụng này được phát triển bằng **AutoIT** và biên dịch sang file thực thi (`.exe`) để bạn có thể sử dụng trực tiếp trên Windows mà **không cần cài đặt AutoIT**.
 
 ![Giao diện chính](../../releases/download/StoreLTSC/info.png)
 
@@ -19,7 +19,7 @@
 Điều này không có nghĩa là chương trình độc hại. Nguyên nhân là:
 
 - Python có khả năng tự động hóa hệ thống (giống các công cụ quản trị).  
-- File `.exe` biên dịch bằng **PyInstaller** thường mang “dấu hiệu kỹ thuật” dễ bị antivirus hiểu nhầm.  
+- File `.exe` biên dịch bằng **AutoIT** thường mang “dấu hiệu kỹ thuật” dễ bị antivirus hiểu nhầm.  
 - File chưa có chữ ký số (code signing), nên Windows có thể hiển thị cảnh báo *“Unknown Publisher”*.  
 
 ---
@@ -39,7 +39,7 @@ Bạn hoàn toàn có thể kiểm tra file `.exe` bằng [VirusTotal](https://w
 - **Nhẹ và đơn giản** → File cài đặt nhỏ gọn, dễ triển khai.  
 - **Nhanh chóng** → Dễ phát triển và cập nhật tính năng.  
 - **Đa năng** → Có thể kết hợp automation, giao diện, và nhiều công cụ hệ thống khác.  
-- Và quan trọng nhất: **Vì chúng tôi thích Python** 😄  
+- Và quan trọng nhất: **Vì chúng tôi thích AutoIT** 😄  
 
 ---
 
