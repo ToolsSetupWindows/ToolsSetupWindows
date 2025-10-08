@@ -17,10 +17,10 @@
 
 ## ❓ Vì sao Windows Defender hoặc Antivirus có thể cảnh báo?
 
-Đôi khi, phần mềm diệt virus hoặc Windows Defender có thể nhận diện nhầm (false positive) và gắn cờ ứng dụng Python là *“Trojan”* hoặc *“Malware”*.  
+Đôi khi, phần mềm diệt virus hoặc Windows Defender có thể nhận diện nhầm (false positive) và gắn cờ ứng dụng AutoIT là *“Trojan”* hoặc *“Malware”*.  
 Điều này không có nghĩa là chương trình độc hại. Nguyên nhân là:
 
-- Python có khả năng tự động hóa hệ thống (giống các công cụ quản trị).  
+- AutoIT có khả năng tự động hóa hệ thống (giống các công cụ quản trị).  
 - File `.exe` biên dịch bằng **AutoIT** thường mang “dấu hiệu kỹ thuật” dễ bị antivirus hiểu nhầm.  
 - File chưa có chữ ký số (code signing), nên Windows có thể hiển thị cảnh báo *“Unknown Publisher”*.  
 
@@ -36,7 +36,7 @@ Bạn hoàn toàn có thể kiểm tra file `.exe` bằng [VirusTotal](https://w
 
 ---
 
-## 🌟 Vì sao chọn Python?
+## 🌟 Vì sao chọn AutoIT?
 
 - **Nhẹ và đơn giản** → File cài đặt nhỏ gọn, dễ triển khai.  
 - **Nhanh chóng** → Dễ phát triển và cập nhật tính năng.  
