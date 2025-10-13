@@ -3,7 +3,7 @@
 Ứng dụng này được phát triển bằng **AutoIT** và biên dịch sang file thực thi (`.exe`) để bạn có thể sử dụng trực tiếp trên Windows mà **không cần cài đặt AutoIT**.
 
 <p align="center">
-  <img src="../../releases/download/StoreLTSC/info.png" alt="Giao diện chính">
+  <img src="../../releases/download/Release/info.png" alt="Giao diện chính">
 </p>
 
 ---
