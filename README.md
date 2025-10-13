@@ -9,7 +9,7 @@
 ---
 
 ## 📥 Tải về
-👉 Bạn có thể **[Click vào đây để tải phần mềm](../../releases/latest)** từ mục **Releases** trên GitHub.  
+👉 Bạn có thể **[Click vào đây để tải phần mềm](../../releases/tag/Release)** từ mục **Releases** trên GitHub.  
 
 *(Nếu đường link không hoạt động, vui lòng vào tab **Releases** ở thanh bên phải repository để tải bản mới nhất).*
 
