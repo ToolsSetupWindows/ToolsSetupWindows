@@ -32,8 +32,6 @@
 - ✅ Không thu thập dữ liệu người dùng.  
 - ✅ Chỉ phục vụ cho **nghiên cứu, học tập và hỗ trợ hệ thống Windows**.  
 
-Bạn hoàn toàn có thể kiểm tra file `.exe` bằng [VirusTotal](https://www.virustotal.com) để xác minh tính an toàn.
-
 ---
 
 ## 🌟 Vì sao chọn AutoIT?
