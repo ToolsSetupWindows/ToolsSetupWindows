@@ -39,7 +39,6 @@
 - **Nhẹ và đơn giản** → File cài đặt nhỏ gọn, dễ triển khai.  
 - **Nhanh chóng** → Dễ phát triển và cập nhật tính năng.  
 - **Đa năng** → Có thể kết hợp automation, giao diện, và nhiều công cụ hệ thống khác.  
-- Và quan trọng nhất: **Vì chúng tôi thích AutoIT** 😄  
 
 ---
 
